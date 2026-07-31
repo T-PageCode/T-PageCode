@@ -20,5 +20,7 @@ Here are some ideas to get you started:
 
 AI噱头不值一提，如果 GitHub 移除核心开源托管能力，我会立刻离开这个平台。
 <!--GitHub 2FA也是把我难倒了，验证码100%正确给我账号临时封禁-->
-GitHub 2FA也是把我难倒了，不给关闭按钮啥意思
+GitHub 2FA也是把我难倒了，不给关闭按钮啥意思<br>
+这已经不再是当初的GitHub。<br>
+它演变为一座处处给开发者埋下陷阱的致命平台。<br>
 🔗 Website: [t-pagecode.github.io](https://t-pagecode.github.io)
