@@ -12,12 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!--GitHub留的专属注释？我就不删了-->
+<!--GitHub留的专属注释？我就不删了，注意2FA带来开发者的危害-->
 # T-PageCode
 
 一名开发者😂
 主攻前端，偶尔使用 C++、Python。持续维护各类仓库，常撰写 Markdown 文档🙂。
 
 AI噱头不值一提，如果 GitHub 移除核心开源托管能力，我会立刻离开这个平台。
-
+<!--GitHub 2FA也是把我难倒了，验证码100%正确给我账号临时封禁-->
+GitHub 2FA也是把我难倒了，不给关闭按钮啥意思
 🔗 Website: [t-pagecode.github.io](https://t-pagecode.github.io)
