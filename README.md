@@ -15,6 +15,12 @@ Here are some ideas to get you started:
 <!--GitHub留的专属注释？-->
 # T-PageCode
 [![Skills](https://skillicons.dev/icons?i=html,css,javascript,cpp,python,git,github,vscode&perline=8)](https://skillicons.dev)<br>
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=T-PageCode.profile)<br>
+<p>
+<a href="https://t-pagecode.github.io"><img src="https://img.shields.io/badge/Website-t--pagecode.github.io-blue?style=flat-square"></a>
+<img src="https://img.shields.io/badge/Main-Frontend-orange?style=flat-square">
+<img src="https://img.shields.io/badge/Also-C++%20%26%20Python-green?style=flat-square">
+</p>
 一名开发者😂
 主攻前端，偶尔使用 C++、Python。持续维护各类仓库，常撰写 Markdown 文档🙂。
 🔗 Website: [t-pagecode.github.io](https://t-pagecode.github.io)
