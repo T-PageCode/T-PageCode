@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 </p>
 一名开发者😂
 主攻前端，偶尔使用 C++、Python。持续维护各类仓库，常撰写 Markdown 文档🙂。
-🔗 Website: [t-pagecode.github.io](https://t-pagecode.github.io)
+🔗 Website: <a href="https://t-pagecode.github.io">t-pagecode.github.io</a>
