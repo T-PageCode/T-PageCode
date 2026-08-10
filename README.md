@@ -28,5 +28,4 @@ Here are some ideas to get you started:
 T-PageCode:主要开发与发布。
 H-PageCode:备份/应急/演示/测试
 D-PageCode:实验/演示/交流
-这些均由同一人管理。我使用不同的浏览器进行物理隔离，以保持组织清晰并遵守 GitHub 的最佳实践（GitHub不要把小号封禁了还连累大号啊啊啊啊）
-这3个账号均为本人开发（我真的很紧张，怕小号连累大号最后GitHub不能开发了）
+这些均由同一人管理。我使用不同的浏览器进行物理隔离，以保持组织清晰并遵守 GitHub 的最佳实践
