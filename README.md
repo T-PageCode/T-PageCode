@@ -14,11 +14,13 @@
 </details>
 🔗 Website: <a href="https://t-pagecode.github.io">t-pagecode.github.io</a><br>
 
-## Project - 项目
-- *Ghvswebtpc:* 最核心网页版系统&nbsp;&nbsp;&nbsp;[访问](https://t-pagecode.github.io/Ghvswebtpc)
-- *Ghvswebtpc-Desktop:* 基于Electron的Ghvswebtpc桌面程序&nbsp;&nbsp;&nbsp;[访问GitHub Releases](https://github.com/T-PageCode/Ghvswebtpc-Desktop/releases)
-- *Guides:* T-PageCode指南&nbsp;&nbsp;&nbsp;[访问](https://t-pagecode.github.io/Guides)
-- *Demo CE:* 基于Electron和Web的代码编辑器&nbsp;&nbsp;&nbsp;[访问](https://t-pagecode.github.io/DemoCE/app-page)&nbsp;&nbsp;[访问GitHub Releases](https://github.com/T-PageCode/DemoCE/releases)
+<details>
+  <summary>Project - 项目</summary>
+Ghvswebtpc: 最核心网页版系统&nbsp;&nbsp;&nbsp;地址:https://t-pagecode.github.io/Ghvswebtpc<br>
+Ghvswebtpc-Desktop: 基于Electron的Ghvswebtpc桌面程序&nbsp;&nbsp;&nbsp;地址:https://github.com/T-PageCode/Ghvswebtpc-Desktop/releases<br>
+Guides: T-PageCode指南&nbsp;&nbsp;&nbsp;地址:https://t-pagecode.github.io/Guides<br>
+Demo CE: 基于Electron和Web的代码编辑器&nbsp;&nbsp;&nbsp;地址:https://t-pagecode.github.io/DemoCE/app-page<br>https://github.com/T-PageCode/DemoCE/releases
+</details>
 <details>
   <summary>💬我是以下账号背后同一位开发者：</summary>
 T-PageCode:主要开发与发布<br>
