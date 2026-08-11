@@ -3,8 +3,6 @@
 [![Skills](https://skillicons.dev/icons?i=html,css,javascript,cpp,c,cs,python&perline=8)](https://skillicons.dev)<br>
 ## 我用的编程工具
 [![My Tools](https://skillicons.dev/icons?i=vscode,visualstudio,vim,git,github&perline=8)](https://skillicons.dev)<br>
-## 贡献图
-[![T-PageCode's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=T-PageCode&theme=react-dark)](https://github.com/T-PageCode)
 ## 我用的系统（包含虚拟机）
 [![Systems](https://skillicons.dev/icons?i=windows,linux,ubuntu&perline=8)](https://skillicons.dev)<br>
 ## ⚡小⚡图⚡标⚡
