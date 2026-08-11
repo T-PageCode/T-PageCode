@@ -1,9 +1,6 @@
 # Hello!我是T-PageCode👋
-## 我会的编程语言
-[![Skills](https://skillicons.dev/icons?i=html,css,javascript,cpp,c,cs,python&perline=8)](https://skillicons.dev)<br>
-## 我用的编程工具
-[![My Tools](https://skillicons.dev/icons?i=vscode,visualstudio,vim,git,github&perline=8)](https://skillicons.dev)<br>
-## 我用的系统（包含虚拟机）
+[![Skills](https://skillicons.dev/icons?i=html,css,javascript,cpp,c,cs,python&perline=8)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=vscode,visualstudio,vim,git,github&perline=8)](https://skillicons.dev)
 [![Systems](https://skillicons.dev/icons?i=windows,linux,ubuntu&perline=8)](https://skillicons.dev)<br>
 ## ⚡小⚡图⚡标⚡
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=T-PageCode.profile)<br>
