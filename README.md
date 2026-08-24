@@ -34,17 +34,20 @@ D-PageCode:实验/演示/交流<br>
 <br>
 Windows 11 26H1 Insider Preview&nbsp;&nbsp;&nbsp;&nbsp;
 Windows 10 22H2&nbsp;&nbsp;&nbsp;&nbsp;
-Windows 10 1709&nbsp;&nbsp;&nbsp;&nbsp;
+Windows 10 Star Valley&nbsp;&nbsp;&nbsp;&nbsp;
+Windows 10 X&nbsp;&nbsp;&nbsp;&nbsp;
 Windows 8.1&nbsp;&nbsp;&nbsp;&nbsp;
 Windows 8&nbsp;&nbsp;&nbsp;&nbsp;
+Windows 7魔改版&nbsp;&nbsp;&nbsp;&nbsp;
 Windows 7&nbsp;&nbsp;&nbsp;&nbsp;
 Windows Vista&nbsp;&nbsp;&nbsp;&nbsp;
-Windows Longhorn 4074&nbsp;&nbsp;&nbsp;&nbsp;
+Windows Vienna&nbsp;&nbsp;&nbsp;&nbsp;
 Windows XP&nbsp;&nbsp;&nbsp;&nbsp;
 MS-DOS 7.10&nbsp;&nbsp;&nbsp;&nbsp;
 MS-DOS 5.00&nbsp;&nbsp;&nbsp;&nbsp;
 Ubuntu 26.04&nbsp;&nbsp;&nbsp;&nbsp;
 Zorin OS 18.1 Core&nbsp;&nbsp;&nbsp;&nbsp;
+CentOS 10&nbsp;&nbsp;&nbsp;&nbsp;
 </details>
 
 <details>
