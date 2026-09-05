@@ -60,4 +60,9 @@ TPC-Console&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://gitea.com/T-PageCode">Gitea</a><br>
 </details>
 <img src="https://streak-stats.demolab.com/?user=T-PageCode">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/T-PageCode/T-PageCode/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/T-PageCode/T-PageCode/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/T-PageCode/T-PageCode/output/github-contribution-grid-snake.svg" />
+</picture>
 <!-- © 2026 The T-PageCode Developer. -->
