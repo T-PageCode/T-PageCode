@@ -59,5 +59,5 @@ TPC-Console&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://gitcode.com/T-PageCode">GitCode</a><br>
 <a href="https://gitea.com/T-PageCode">Gitea</a><br>
 </details>
-
+<img src="https://streak-stats.demolab.com/?user=T-PageCode">
 <!-- © 2026 The T-PageCode Developer. -->
