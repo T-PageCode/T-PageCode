@@ -1,5 +1,4 @@
 # Hello!我是T-PageCode👋
-(贡献少真不是没写😅是因为没网😅)<br>
 **主要写前端 也在写后端和底层**<br>
 因为上学原因缓更<br><hr>
 [![Skills](https://skillicons.dev/icons?i=html,css,javascript,cpp,c,cs,python&perline=8)](https://skillicons.dev)
