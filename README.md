@@ -1,5 +1,5 @@
 # Hello!我是T-PageCode👋
-(贡献少真不是没写😅是因为没网😅)
+(贡献少真不是没写😅是因为没网😅)<br>
 **主要写前端 也在写后端和底层**<br>
 因为上学原因缓更<br><hr>
 [![Skills](https://skillicons.dev/icons?i=html,css,javascript,cpp,c,cs,python&perline=8)](https://skillicons.dev)
@@ -12,8 +12,8 @@
 <img src="https://img.shields.io/badge/Also-C++%20%26%20Python-green?style=flat-square">
 <details>
 <summary>简介</summary>
-一名开发者😂<br>
-主攻前端，偶尔使用 C++、Python。持续维护各类仓库，常撰写 Markdown 文档🙂。<br>
+普通的开发者<br>
+喜欢写网页、汇编和其他语言
 </details>
 🔗 Website: <a href="https://t-pagecode.github.io">t-pagecode.github.io</a><br>
 
