@@ -1,6 +1,6 @@
 # Hello!我是T-PageCode👋
 **主要写前端 也在写后端和底层**<br>
-因为上学原因缓更<br><hr>
+因为学业原因缓更<br><hr>
 [![Skills](https://skillicons.dev/icons?i=html,css,javascript,cpp,c,cs,python&perline=8)](https://skillicons.dev)
 [![My Tools](https://skillicons.dev/icons?i=vscode,visualstudio,vim,git,github&perline=8)](https://skillicons.dev)
 [![Systems](https://skillicons.dev/icons?i=windows,linux,ubuntu&perline=8)](https://skillicons.dev)<br>
