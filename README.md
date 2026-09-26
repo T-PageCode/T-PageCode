@@ -1,6 +1,5 @@
 # Hello!我是T-PageCode👋
 **主要写前端 也在写后端和底层**<br>
-很抱歉，T-PageCode的电脑处于无网络环境，目前只可用手机提交代码。<br>
 因为学业原因缓更<br><hr>
 [![Skills](https://skillicons.dev/icons?i=html,css,javascript,cpp,c,cs,python&perline=8)](https://skillicons.dev)
 [![My Tools](https://skillicons.dev/icons?i=vscode,visualstudio,vim,git,github&perline=8)](https://skillicons.dev)
