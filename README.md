@@ -35,21 +35,21 @@ D-PageCode:实验/演示/交流<br>
 <summary>💬虚拟机</summary>
 <br>
 Windows 11 26H2 Insider Preview&nbsp;&nbsp;&nbsp;&nbsp;
-Watermelon 11&nbsp;&nbsp;&nbsp;&nbsp;
 Windows 10 22H2&nbsp;&nbsp;&nbsp;&nbsp;
-Windows 10 Star Valley&nbsp;&nbsp;&nbsp;&nbsp;
 Windows 8.1&nbsp;&nbsp;&nbsp;&nbsp;
-Windows 8&nbsp;&nbsp;&nbsp;&nbsp;
-Windows 7魔改版&nbsp;&nbsp;&nbsp;&nbsp;
+Windows 8&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 Windows 7&nbsp;&nbsp;&nbsp;&nbsp;
 Windows Vista&nbsp;&nbsp;&nbsp;&nbsp;
 Windows XP&nbsp;&nbsp;&nbsp;&nbsp;
+Windows 98&nbsp;&nbsp;&nbsp;&nbsp;
+Windows 95&nbsp;&nbsp;&nbsp;&nbsp;
 MS-DOS 7.10&nbsp;&nbsp;&nbsp;&nbsp;
 MS-DOS 5.00&nbsp;&nbsp;&nbsp;&nbsp;
 Ubuntu 26.04&nbsp;&nbsp;&nbsp;&nbsp;
 Zorin OS 18.1 Core&nbsp;&nbsp;&nbsp;&nbsp;
 HelloPrint&nbsp;&nbsp;&nbsp;&nbsp;
 TPC-Console&nbsp;&nbsp;&nbsp;&nbsp;
+macOS 13&nbsp;&nbsp;&nbsp;&nbsp;
 </details>
 
 <details>
