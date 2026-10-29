@@ -5,7 +5,7 @@
 [![Skills](https://skillicons.dev/icons?i=html,css,javascript,cpp,c,cs,python&perline=8)](https://skillicons.dev)
 [![My Tools](https://skillicons.dev/icons?i=vscode,visualstudio,vim,git,github&perline=8)](https://skillicons.dev)
 [![Systems](https://skillicons.dev/icons?i=windows,linux,ubuntu&perline=8)](https://skillicons.dev)<br>
-## ⚡小⚡图⚡标⚡
+## VISITORS / 其他
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=T-PageCode.profile)<br>
 <a href="https://t-pagecode.github.io"><img src="https://img.shields.io/badge/Website-t--pagecode.github.io-blue?style=flat-square"></a>
 <img src="https://img.shields.io/badge/Main-Frontend-orange?style=flat-square">
