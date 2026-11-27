@@ -1,6 +1,6 @@
 # Hello!我是T-PageCode👋
 **写前端、后端、底层**<br>
-我要带眼镜了😅<br>
+猜猜谁没时间写代码😅<br>
 因为学业原因缓更<br><hr>
 [![Skills](https://skillicons.dev/icons?i=html,css,javascript,cpp,c,cs,python&perline=8)](https://skillicons.dev)
 [![My Tools](https://skillicons.dev/icons?i=vscode,visualstudio,vim,git,github&perline=8)](https://skillicons.dev)
